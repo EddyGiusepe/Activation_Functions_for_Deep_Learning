@@ -65,3 +65,26 @@ plt.title("Tanh", c="red", size=20)
 plt.grid(True)
 plt.show()
 
+
+
+print("##################################")
+print("Testando a saída da função softmax")
+print("##################################")
+
+from numpy import exp
+ 
+# Função softmax 
+def softmax(x):
+	return exp(x) / exp(x).sum()
+ 
+# Input 
+inputs = [1.0, 3.0, 2.0]
+# Outputs
+outputs = softmax(inputs)
+# As Probabilities
+print(outputs)
+# Calculando a soma das probabilities
+print(outputs.sum())
+
+
+
