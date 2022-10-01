@@ -22,6 +22,7 @@ Aqui aprenderemos:
 * A função de ativação para `camadas de saída` depende do tipo de problema de previsão.
 
 
+
 # Funções de ativação
 
 Uma função de ativação em uma rede neural define como a soma ponderada da entrada é transformada em uma saída de um nó ou nós em uma camada da rede.
