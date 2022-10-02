@@ -203,12 +203,4 @@ Prever uma probabilidade não é um problema de regressão; é `classificação`
 
 
 
-
-
-<<<<<<< HEAD
 Thanks God!
-=======
-
-
-
->>>>>>> f7a60ce9e9ff4a967cb37ba39f9188922793c622
